@@ -1,4 +1,4 @@
-# nineImageView
+﻿# nineImageView
 
 自定义九宫格控件，支持设置图片边距，加边框，设置圆角图片<br><br>
 
@@ -65,4 +65,5 @@
 ![图片](https://imgsa.baidu.com/forum/pic/item/5215598da97739121563387ff5198618367ae27a.jpg) 
 ![图片](https://imgsa.baidu.com/forum/pic/item/0d611312b31bb05150610e363b7adab44aede07a.jpg) 
 ![图片](https://imgsa.baidu.com/forum/pic/item/0cc5d71f4134970a64a6a23198cad1c8a6865de9.jpg) 
+![图片](https://imgsa.baidu.com/forum/pic/item/a8e21badcbef7609404a238123dda3cc7cd99e05.jpg) 
 
