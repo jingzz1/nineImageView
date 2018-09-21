@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NineImageView">
+        <!--//图片间距-->
+        <attr name="niv_margin" format="dimension"/>
+        <!--圆角大小-->
+        <attr name="niv_radius" format="dimension" />
+        <attr name="niv_left_top_corner_radius" format="dimension" />
+        <attr name="niv_right_top_corner_radius" format="dimension" />
+        <attr name="niv_left_bottom_corner_radius" format="dimension" />
+        <attr name="niv_right_bottom_corner_radius" format="dimension" />
+        <!--描边大小-->
+        <attr name="niv_border_width" format="dimension" />
+        <!--描边颜色-->
+        <attr name="niv_border_color" format="color" />
+        <!--是否圆形图片-->
+        <attr name="niv_oval" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="RadiusImageView">
+        <attr name="riv_radius" format="dimension" />
+        <attr name="riv_left_top_corner_radius" format="dimension" />
+        <attr name="riv_right_top_corner_radius" format="dimension" />
+        <attr name="riv_left_bottom_corner_radius" format="dimension" />
+        <attr name="riv_right_bottom_corner_radius" format="dimension" />
+        <attr name="riv_border_width" format="dimension" />
+        <attr name="riv_border_color" format="color" />
+        <attr name="riv_oval" format="boolean" />
+        <attr name="android:scaleType" />
+    </declare-styleable>
+</resources>
