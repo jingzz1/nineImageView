@@ -518,6 +518,7 @@ public class NineImageView extends ViewGroup {
         imageView.setBorderWidthDP(px2dip(borderWidth));
         imageView.setCornerRadiiDP(px2dip(leftTopRadius),px2dip(rightTopRadius),px2dip(leftBottomRadius),px2dip(rightBottomRadius));
         imageView.setScaleType(ImageView.ScaleType.CENTER_CROP);
+        imageView.setOval(isOval);
         return imageView;
     }
 
